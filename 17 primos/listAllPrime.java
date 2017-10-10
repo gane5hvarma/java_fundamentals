@@ -32,7 +32,7 @@ class ListAllPrime{
   public static void main(String args[]){
     int m;
     m=Integer.parseInt(args[0]);
-    ListAllPrime.prime(m);
+    prime(m);
 
 
   }
